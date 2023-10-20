@@ -1,7 +1,6 @@
 Maxim Joel Carbonell-Kiamtia
 mjcarbon
-Spring 2021
-Assignment 7 
+
 
 ---------------------
 DESCRIPTION: This directory is for the purposes of generating a memory of badspeak words, badspeak words with translations, reading a user's input and determing whether the have transgressions or not. Directory uses Bloom filter(uses a bitvector), Hash Table(uses linked lists and nodes), and a parsing module to read and determine transgressions. 
